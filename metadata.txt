@@ -1,0 +1,18 @@
+% ATENÇÃO, estes dados não são reais
+% Dados ambientais de exemplo para a matéria: Introdução a Ciência dos Dados
+% 
+% A organização dos dados é mostrada a seguir:
+% Linbhas: Cada linha é a média de uma medição individual e simultânea de 10 minutos dos seguintes agentes:
+% Coluna 1: Data e hora
+% Coluna 2: Velociade de vento(m/s)
+% Coluna 3: Direção de incidência do vento (sentido horário a partir do norte)
+% Coluna 4: Velociade de correnteza superficial(m/s)
+% Coluna 5: Direção de propagação da correnteza (sentido horário a partir do norte)
+% Coluna 6: Altura significativa de Swell(m)
+% Coluna 7: Período de pico de Swell(s)
+% Coluna 8: Direção de incidência do Swell (sentido horário a partir do norte)
+% Coluna 9: Altura significativa de Onda(m)
+% Coluna 10: Período de pico de Onda(s)
+% Coluna 11: Direção de incidência do Onda (sentido horário a partir do norte)
+%
+% Valores em zero indicam a ausência do agente no momento de medição
